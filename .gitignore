@@ -1,0 +1,18 @@
+# Java build output
+*.class
+
+# Local libraries and packaged dependencies
+lib/
+libs/
+*.jar
+*.war
+*.ear
+
+# Common IDE/build directories
+bin/
+out/
+target/
+build/
+.idea/
+.vscode/
+*.iml
